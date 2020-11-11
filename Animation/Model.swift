@@ -21,9 +21,9 @@ extension Animation {
         
         var animations: [Animation] = []
         
-        let names = DataManager.shared.names.shuffled()
-        let curves = DataManager.shared.curves.shuffled()
-        let durations = DataManager.shared.durations.shuffled()
+        let names = DataManager.shared.names
+        let curves = DataManager.shared.curves
+        let durations = DataManager.shared.durations
         
         
         

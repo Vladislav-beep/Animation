@@ -38,7 +38,6 @@ class ViewController: UIViewController {
               Curve - \(animationView.curve)
               Duration - \(animationView.duration)
               """
-        
     }
 }
 
